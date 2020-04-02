@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="22px" viewBox="0 0 75 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>City_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-1.04083409e-15 0 75 0 75 22 -1.04083409e-15 22"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quantela_Email_Templates_V1.0" transform="translate(-830.000000, -282.000000)">
+            <g id="Group-10" transform="translate(70.000000, 173.000000)">
+                <g id="Group-18" transform="translate(450.000000, 0.000000)">
+                    <g id="Group-9" transform="translate(15.000000, 109.000000)">
+                        <g id="City_logo" transform="translate(295.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <path stroke="#EFEFEF" d="M0.5,0.5 L0.5,21.5 L74.5,21.5 L74.5,0.5 L0.5,0.5 Z"></path>
+                            <text id="City-Logo" mask="url(#mask-2)" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#111111">
+                                <tspan x="12.6523438" y="15">City Logo</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
